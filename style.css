@@ -40,3 +40,10 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+
+.flexible-container-two{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-top: 50px;
+}
