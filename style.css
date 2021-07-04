@@ -3,6 +3,30 @@ body{
     margin: 0;
 }
 
+h1{
+    font-size: 50px;
+}
 .orange-heading{
     color: orange;
+}
+
+contaner{
+      display: flex;
+}
+.heading-contaner{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-bottom: 100px;
+}
+
+.half-width{
+    width: 50%;
+    margin-left: 5px;
+    padding: 10px;
+}
+
+contaner img{
+     width: 80%;
+     margin-top: 5%;
 }
